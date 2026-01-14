@@ -3,3 +3,14 @@ html {
     width: 100%;
   }
   
+  h1{
+    color:#2cfb21;
+  }
+
+  .blue{
+    color: rgb(88, 175, 241);
+  }
+
+  #red{
+    color: red;
+  }
